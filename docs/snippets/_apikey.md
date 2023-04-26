@@ -21,7 +21,7 @@ import openai
 
 openai.api_key_path = "~/.openai-key"
 #  - or -
-openai.api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+openai.api_key = "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"
 ```
 
 Be careful not to expose this key to the public by checking it into a public repository.
